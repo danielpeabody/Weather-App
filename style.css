@@ -1,9 +1,11 @@
 body {
 margin: 0px;
 padding: 0px;
-background-image: url('../../img/clouds.jpg');
-background-size:cover;
-
+background-image: url('https://images.pexels.com/photos/314726/pexels-photo-314726.jpeg?cs=srgb&dl=pexels-pixabay-314726.jpg&fm=jpg');
+height: 100vh; /* You must set a specified height */
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover;
 }
 
 h1 {
